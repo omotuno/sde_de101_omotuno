@@ -1,10 +1,10 @@
 ## How to Enable Data Analytics:
 
-	1.	Understand Business Needs: Start by identifying key business objectives. Interview stakeholders to understand what decisions they want to drive with data (e.g., customer segmentation, performance tracking).
-	2.	Gather Requirements: Define the data sources, types of analysis, and the infrastructure needed (e.g., data warehouses, cloud storage). Prioritize based on business impact.
-	3.	Design Data Pipeline:
+1.	Understand Business Needs: Start by identifying key business objectives. Interview stakeholders to understand what decisions they want to drive with data (e.g., customer segmentation, performance tracking).
+2.	Gather Requirements: Define the data sources, types of analysis, and the infrastructure needed (e.g., data warehouses, cloud storage). Prioritize based on business impact.
+3.	Design Data Pipeline:
 	•	Ingestion: Identify data sources and build ETL processes to move data into storage.
 	•	Transformation: Apply necessary data transformations for reporting or model-building.
 	•	Storage: Store data in a scalable system like a data warehouse (e.g., BigQuery, Snowflake).
 	•	Access: Ensure stakeholders can access and visualize the data (e.g., through dashboards or APIs).
-	4.	Deploy & Monitor: Automate ETL processes, deploy monitoring tools, and ensure data integrity.
+4.	Deploy & Monitor: Automate ETL processes, deploy monitoring tools, and ensure data integrity.
